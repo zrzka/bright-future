@@ -26,6 +26,19 @@ _enabled_editors:
 _inputs: {}
 _select_data: {}
 _structures: {}
-_editables: {}
+_editables:
+  text:
+    bold: true
+    copyformatting:
+    italic: true
+    link: true
+    paths:
+    redo:
+    removeformat: true
+    strike: true
+    subscript: true
+    superscript: true
+    underline:
+    undo:
 data_config: {}
 timezone: Etc/UTC
